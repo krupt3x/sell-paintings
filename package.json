@@ -1,0 +1,14 @@
+{
+  "name": "sell-paintings",
+  "version": "1.0.0",
+  "description": "A website to sell paintings.",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "painting selling website",
+    "node",
+    "javascript"
+  ],
+  "author": "krupt3x",
+  "license": "MIT"
+}
