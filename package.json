@@ -1,18 +1,26 @@
 {
   "name": "sell-paintings",
   "version": "1.0.0",
-  "description": "A website to sell paintings.",
+  "description": "a platform which allows users to buy and sell paintings",
   "main": "index.js",
-  "scripts": {},
-  "keywords": [
-    "painting selling website",
-    "node",
-    "javascript"
-  ],
-  "author": "krupt3x",
-  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "repository": {
     "type": "git",
     "url": "github.com/krupt3x/sell-paintings"
+  },
+  "keywords": [
+    "sell",
+    "paintings",
+    "buy",
+    "paintings",
+    "ecom"
+  ],
+  "author": "krupt3x",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^5.92.1",
+    "webpack-cli": "^5.1.4"
   }
 }
