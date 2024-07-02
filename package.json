@@ -10,5 +10,9 @@
     "javascript"
   ],
   "author": "krupt3x",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "github.com/krupt3x/sell-paintings"
+  }
 }
