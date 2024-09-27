@@ -8,6 +8,7 @@ body {
   background-color: #000;
   font-family: Arial, Helvetica, sans-serif;
   color: #a0153e;
+  text-align: center;
 }
 
 nav {
@@ -24,3 +25,20 @@ nav a {
   color: #872341;
   font-weight: bolder;
 }
+
+.intro {
+  text-align: center;
+  padding: 10px;
+  margin: 10px;
+}
+
+.signup-form-link a {
+  color: #872341;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+input:focus:invalid {
+  border: 2px solid red;
+}
+
